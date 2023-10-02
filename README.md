@@ -1,3 +1,5 @@
+<!--
+
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreNascimentoDS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -36,7 +38,7 @@
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 
-<!--
+
 
 <h1 align="center">Olá, eu sou o André Nascimento.</h1>
 <h3 align="center">Um Analista de Negócios e futuro Cientista de dados.</h3>
