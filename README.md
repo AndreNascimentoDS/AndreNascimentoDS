@@ -1,4 +1,9 @@
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreNascimentoDS&bg_color=0d1117&color=5050aa&line=5050aa&point=5050aa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <!--
+
+cor azul do tela: 5050AA
 
 <div>
   
