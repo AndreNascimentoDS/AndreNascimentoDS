@@ -23,7 +23,7 @@
 <img align="left" alt="Figma" width="20px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/8b668b93-63f1-4dc1-b331-1f68396942bf" />
 
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreNascimentoDS&bg_color=0d1117&color=5050aa&line=5050aa&point=5050aa&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreNascimentoDS&bg_color=0d1117&color=5050aa&line=5050aa&point=5050aa&area=false&hide_border=true)
 
 
 
