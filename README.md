@@ -2,16 +2,19 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img align="left" alt="JavaS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.min.css" />
+<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/c948d489-412f-43c8-99c8-877852fd3bca"/>
+<img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/227d2c5b-f220-4eb7-af8c-06603cc0f3eb" />
+<img align="left" alt="SQL Server" width="30px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/05f8104b-25b3-4b79-a917-6ef2e29b1fc6" />
+<img align="left" alt="Postgre" width="36px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/8dc928fc-8b41-48ca-922f-cad04bb808a8" />
+<img align="left" alt="R" width="36px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/a950ad48-d8ad-4adf-a839-dca17e312c12" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/e9753711-51b1-4c41-a90a-6db9c7e04e4b" />
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/050502d0-1d4a-4a78-9417-0c87c69ddc7e" />
+<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/4ae1dbb5-7b7b-44c2-a894-b56fee4b8672" />
+<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/095054aa-f97b-47ef-8aae-0cdfae4785cc" />
+<img align="left" alt="Scikitlearn" width="30px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/78568fcd-2f86-4134-8d99-69f8624dc3c9" />
+<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/c1c47ed1-f6d7-4269-b008-498c7d0373f9" />
+<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/bd59a524-afd1-4320-ada3-4b1857ba2f81" />
+<img align="left" alt="Figma" width="20px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/8b668b93-63f1-4dc1-b331-1f68396942bf" />
 
 <!--
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
