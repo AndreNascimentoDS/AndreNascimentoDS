@@ -1,7 +1,7 @@
 ### André 👋
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 🧰 Languages and Tools
+### 🧰🔧 Languages and Tools
 
 <img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/c948d489-412f-43c8-99c8-877852fd3bca"/>
 <img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/227d2c5b-f220-4eb7-af8c-06603cc0f3eb" />
