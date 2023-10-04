@@ -1,4 +1,5 @@
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreNascimentoDS&bg_color=0d1117&color=5050aa&line=5050aa&point=5050aa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### André 👋
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🧰 Languages and Tools
 
@@ -15,6 +16,9 @@
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/c1c47ed1-f6d7-4269-b008-498c7d0373f9" />
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/bd59a524-afd1-4320-ada3-4b1857ba2f81" />
 <img align="left" alt="Figma" width="20px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/8b668b93-63f1-4dc1-b331-1f68396942bf" />
+
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreNascimentoDS&bg_color=0d1117&color=5050aa&line=5050aa&point=5050aa&area=true&hide_border=true)
 
 <!--
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
