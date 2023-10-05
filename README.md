@@ -2,6 +2,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrenascimentods&label=Profile%20views&color=0e75b6&style=flat" alt="andrenascimentods" /> </p>
 
+
+
 ### Linguagens e Ferramentas
 
 
@@ -23,8 +25,7 @@
 <img align="left" alt="Figma" width="20px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/8b668b93-63f1-4dc1-b331-1f68396942bf" />
 
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreNascimentoDS&bg_color=0d1117&color=5050aa&line=5050aa&point=5050aa&area=false&hide_border=true)
-
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrenascimentods&bg_color=0d1117&color=0789da&line=0789da&point=0789da&area=true&hide_border=true)
 
 
 
@@ -35,9 +36,10 @@
 
 
 ## Incluir bloco de informações
-<div>
+<div align="left">  
+
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndreNascimentoDS&show_icons=true&count_private=true&hide_border=true&title_color=0789DA&icon_color=0789DA&text_color=c9d1d9&bg_color=0d1117" alt="André Nascimento github stats" /> 
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreNascimentoDS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 
@@ -46,10 +48,7 @@
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-<div>
-<a href="https://github.com/AndreNascimentoDS">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreNascimentoDS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 
 **AndreNascimentoDS/AndreNascimentoDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
