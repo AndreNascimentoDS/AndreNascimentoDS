@@ -6,7 +6,7 @@
 
 ### Linguagens e Ferramentas
 
-<img align="left" alt="Excel" width="22px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/c948d489-412f-43c8-99c8-877852fd3bca"/>
+<img align="left" alt="Excel" width="22px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/15136543-fc6b-4d01-9488-92069d7c09a3"/>
 <img align="left" alt="Power BI" width="22px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/227d2c5b-f220-4eb7-af8c-06603cc0f3eb" />
 <img align="left" alt="SQL Server" width="22px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/05f8104b-25b3-4b79-a917-6ef2e29b1fc6" />
 <img align="left" alt="Postgre" width="30px" style="padding-right:10px;" src="https://github.com/ForrestKnight/ForrestKnight/assets/143359685/8dc928fc-8b41-48ca-922f-cad04bb808a8" />
