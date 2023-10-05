@@ -1,10 +1,12 @@
-### André 👋
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrenascimentods&label=Profile%20views&color=0e75b6&style=flat" alt="andrenascimentods" /> </p>
+# <img align="left" alt="Tools" width="42px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/51548dad-7364-411a-80a6-cd2e80d542c5" />André Nascimento
 
+**`Business Intelligence Analyst`**
 
+Sou graduado em Ciências Contábeis e possuo MBA em Business Intelligence. Trabalho atualmente com análise de dados históricos do comércio exterior e recentemente iniciei meus estudos em Ciência de dados pela Data Science Academy.
 
-### Linguagens e Ferramentas
+---
+
+### <img align="left" alt="Tools" width="28px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/1d8fcebc-79fc-406f-beaf-952e96c8cd95" />Linguagens e Ferramentas
 
 <img align="left" alt="Excel" width="22px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/15136543-fc6b-4d01-9488-92069d7c09a3"/>
 <img align="left" alt="Power BI" width="22px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/369b9f31-a725-4d37-ac02-9fed31125851" />
@@ -24,6 +26,10 @@
 <img align="left" alt="Figma" width="14px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/0caee0c8-a296-4c61-b8d9-5a156c96c532" />
 
 
+
+
+
+
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrenascimentods&bg_color=0d1117&color=0789da&line=0789da&point=0789da&area=true&hide_border=true)
 
 
@@ -32,6 +38,8 @@
 
 ## Incluir imagens:
 <img align="left" alt="Tools" width="30px" style="padding-right:10px;" src="" />
+
+
 
 
 ## Incluir bloco de informações
