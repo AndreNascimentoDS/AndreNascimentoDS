@@ -27,7 +27,6 @@ Sou graduado em Ciências Contábeis e possuo MBA em Business Intelligence. Trab
 
 
 
-
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrenascimentods&bg_color=0d1117&color=0789da&line=0789da&point=0789da&area=true&hide_border=true)
 
 
