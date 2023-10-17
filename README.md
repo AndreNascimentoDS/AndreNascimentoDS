@@ -5,7 +5,6 @@
 Sou graduado em Ciências Contábeis e possuo MBA em Business Intelligence. Trabalho atualmente com análise de dados históricos do comércio exterior e recentemente iniciei meus estudos em Ciência de dados pela Data Science Academy.
 
 
-
 ### <img align="left" alt="Tools" width="28px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/1d8fcebc-79fc-406f-beaf-952e96c8cd95" />Linguagens e Ferramentas
 
 <img align="left" alt="Excel" width="22px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/15136543-fc6b-4d01-9488-92069d7c09a3"/>
