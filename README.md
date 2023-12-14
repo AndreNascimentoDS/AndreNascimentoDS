@@ -2,6 +2,8 @@
 
 **`Business Intelligence Analyst`**
 
+
+
 Sou graduado em Ciências Contábeis e possuo MBA em Business Intelligence. Trabalho atualmente com análise de dados históricos do comércio exterior e recentemente iniciei meus estudos em Ciência de dados pela Data Science Academy.
 
 
